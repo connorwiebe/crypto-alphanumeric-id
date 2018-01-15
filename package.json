@@ -1,6 +1,6 @@
 {
   "name": "crypto-alphanumeric-id",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate cryptographic, alphanumeric, base62 strings of a given length.",
   "main": "index.js",
   "repository": {
